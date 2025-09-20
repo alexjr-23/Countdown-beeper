@@ -9,13 +9,3 @@ while num >=0:
     num -= 1
     time.sleep(1)
 print("Countdown is finished!")
-        
-
-
-
-   
-             
-           
-
-                
-                                      
