@@ -1,2 +1,2 @@
 # Countdown-beeper
-counts down from a given numder as it beeps
+This is simple countdown timer in Python that prints numbers and beeps.
